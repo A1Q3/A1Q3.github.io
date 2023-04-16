@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="/2023/04/16/redis%E6%9C%AA%E6%8E%88%E6%9D%83%E8%AE%BF%E9%97%AE%E5%A4%8D%E7%8E%B0/"/>
+      <url>/2023/04/16/redis%E6%9C%AA%E6%8E%88%E6%9D%83%E8%AE%BF%E9%97%AE%E5%A4%8D%E7%8E%B0/</url>
+      
+        <content type="html"><![CDATA[<p>title: redis未授权访问复现<br>tags: hvv 渗透</p><p>​最近在学习渗透，今天准备复现一下redis的漏洞。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>my-first-blog</title>
       <link href="/2023/04/15/my-first-blog/"/>
       <url>/2023/04/15/my-first-blog/</url>
