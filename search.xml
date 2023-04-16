@@ -8,7 +8,7 @@
       <link href="/2023/04/15/redis%E6%9C%AA%E6%8E%88%E6%9D%83%E8%AE%BF%E9%97%AE%E5%A4%8D%E7%8E%B0/"/>
       <url>/2023/04/15/redis%E6%9C%AA%E6%8E%88%E6%9D%83%E8%AE%BF%E9%97%AE%E5%A4%8D%E7%8E%B0/</url>
       
-        <content type="html"><![CDATA[<h1 id="Redis漏洞"><a href="#Redis漏洞" class="headerlink" title="Redis漏洞"></a>Redis漏洞</h1>]]></content>
+        <content type="html"><![CDATA[<h1 id="Redis漏洞"><a href="#Redis漏洞" class="headerlink" title="Redis漏洞"></a>Redis漏洞</h1><h2 id="1-了解Redis"><a href="#1-了解Redis" class="headerlink" title="1.了解Redis"></a>1.了解Redis</h2><p>Redis（Remote Dictionary Server )，即远程字典服务，是一个开源的使用ANSI C语言编写、支持网络、可基于内存亦可持久化的日志型、Key-Value数据库，并提供多种语言的API。从2010年3月15日起，Redis的开发工作由VMware主持。从2013年5月开始，Redis的开发由Pivota赞助。</p><h2 id="2-Redis漏洞原理"><a href="#2-Redis漏洞原理" class="headerlink" title="2.Redis漏洞原理"></a>2.Redis漏洞原理</h2>]]></content>
       
       
       
