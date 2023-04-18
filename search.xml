@@ -4,13 +4,19 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2023/04/18/%E7%9A%AE%E5%8D%A1%E4%B8%98SQL/"/>
-      <url>/2023/04/18/%E7%9A%AE%E5%8D%A1%E4%B8%98SQL/</url>
+      <title>pikachu-SQL注入</title>
+      <link href="/2023/04/18/pikachu-SQL%E6%B3%A8%E5%85%A5/"/>
+      <url>/2023/04/18/pikachu-SQL%E6%B3%A8%E5%85%A5/</url>
       
-        <content type="html"><![CDATA[<p>title: pikachu靶场-SQL注入<br>date: 2023-04-18 20:13:07<br>tags: 靶场 pikachu hvv</p><h1 id="pikachu靶场-SQL注入"><a href="#pikachu靶场-SQL注入" class="headerlink" title="pikachu靶场-SQL注入"></a>pikachu靶场-SQL注入</h1><h2 id="1-XX型注入"><a href="#1-XX型注入" class="headerlink" title="1.XX型注入"></a>1.XX型注入</h2>]]></content>
+        <content type="html"><![CDATA[<h1 id="pikachu-SQL注入"><a href="#pikachu-SQL注入" class="headerlink" title="pikachu-SQL注入"></a>pikachu-SQL注入</h1><h2 id="1-XX型注入"><a href="#1-XX型注入" class="headerlink" title="1.XX型注入"></a>1.XX型注入</h2>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 靶场 pikachu hvv </tag>
+            
+        </tags>
       
     </entry>
     
